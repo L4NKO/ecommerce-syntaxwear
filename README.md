@@ -25,7 +25,7 @@ Neste projeto, utilizei as seguintes tecnologias e técnicas de desenvolvimento 
 
 ---
 
-## 🚀 Funcionalidades e Seções do Site
+## 📌 Funcionalidades e Seções do Site
 
 * Cabeçalho com navegação e menu hambúrguer para dispositivos móveis, desenvolvido com CSS.
 
@@ -74,7 +74,7 @@ Clone o repositório utilizando o Git:
 git clone https://github.com/L4NKO/ecommerce-syntaxwear.git
 ```
 
-Abra a pasta do projeto no VS Code e execute o arquivo index.html no navegador.
+Abra a pasta do projeto no VS Code e execute o arquivo `index.html` no navegador.
 
 Também é possível utilizar a extensão Live Server.
 
